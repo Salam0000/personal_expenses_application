@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       title: 'Personal Expenses',
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
-        accentColor: Colors.deepPurpleAccent,
+        // accentColor: Colors.deepPurpleAccent,
         // errorColor: Colors.red,
         fontFamily: 'Quicksand',
         appBarTheme: AppBarTheme(
